@@ -70,3 +70,16 @@ dependencies {
     "withSdkImplementation"("org.slf4j:slf4j-api:1.7.30") // Use the latest version
     "withSdkImplementation"("org.slf4j:slf4j-simple:1.7.30") // Simple implementation
 }
+
+val printWithSdkDebugDependencies = tasks.register("printWithSdkDebugDependencies") {
+    doLast {
+        val config = configurations.getByName("withSdkDebugCompileClasspath")
+        config.forEach { println(it) }
+    }
+}
+val printWithoutSdkDebugDependencies = tasks.register("printWithoutSdkDebugDependencies") {
+    doLast {
+        val config = configurations.getByName("withoutSdkDebugCompileClasspath")
+        config.forEach { println(it) }
+    }
+}
