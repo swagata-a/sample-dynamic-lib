@@ -1,0 +1,27 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+k
+;app/src/main/java/com/comviva/myapplication/MainActivity.kt,1\b\1b77389a473eade6cf9a6f39844969126e184bef
+_
+/app/src/androidTestWithSdk/java/MainActivity.kt,4\d\4d65db4135aac7c136627596056cc62d93bf485d
+|
+Lapp/src/androidTestWithSdk/java/com/comviva/myapplication/ui/MainActivity.kt,7\7\77c7da06a6a66f763c5b05c47d4082a157ac647a
+}
+Mapp/src/androidTest/java/com/comviva/myapplication/ExampleInstrumentedTest.kt,1\a\1a174980151ecfcaf6ffe1ea5b27b4d059a493e4
+s
+Capp/src/withSdk/java/com/comviva/myapplication/ui/MainActivity.java,e\5\e51215cae32d1ccbae2505cc19204c2c06a58cb3
+q
+Aapp/src/withSdk/java/com/comviva/myapplication/ui/MainActivity.kt,d\1\d1d13b9572580b9d0d59ee9aaaf4f70eb0dc066c
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/withSdk/java/com/comviva/myapplication/MainActivity.kt,7\d\7d9f0ca1dcc70c21823df992ca82bb04b52b496b
+S
+#app/src/withSdk/AndroidManifest.xml,3\1\3167a455b5fc0ef9afde9f61030ce997fb982889
